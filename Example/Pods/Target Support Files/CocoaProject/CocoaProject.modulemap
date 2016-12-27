@@ -1,0 +1,6 @@
+framework module CocoaProject {
+  umbrella header "CocoaProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

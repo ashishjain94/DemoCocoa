@@ -1,0 +1,22 @@
+{
+  "name": "CocoaProject",
+  "version": "0.1.0",
+  "summary": "A short description of CocoaProject.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/CocoaProject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ashish Jain": "ashish.jain@tothenew.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/CocoaProject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CocoaProject/Classes/**/*"
+}

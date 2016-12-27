@@ -1,0 +1,16 @@
+PODS:
+  - CocoaProject (0.1.0)
+
+DEPENDENCIES:
+  - CocoaProject (from `../`)
+
+EXTERNAL SOURCES:
+  CocoaProject:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CocoaProject: 71bab3b0368179418bd19707ac73a090c7f2e059
+
+PODFILE CHECKSUM: 85b25f98813c371f697c36e48bdd793ddc1a56da
+
+COCOAPODS: 1.1.1
